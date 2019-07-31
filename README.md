@@ -12,10 +12,11 @@
 -- matisse
 -- xpopup
 
-名称|地址|
-easypermissions|https://github.com/googlesamples/easypermissions >> googlesamples
-rxlifecycle|https://github.com/trello/RxLifecycle >> @trello
-butterknife|https://github.com/JakeWharton/butterknife >> @JakeWharton
-glide|https://github.com/bumptech/glide >> @bumptech
-matisse|https://github.com/zhihu/Matisse  >> @zhihu 
-xpopup|https://github.com/li-xiaojun/XPopup  >> @li-xiaojun 
+名称|地址||名称|地址|
+|--|:--:|
+easypermissions | https://github.com/googlesamples/easypermissions >> googlesamples
+rxlifecycle | https://github.com/trello/RxLifecycle >> @trello
+butterknife | https://github.com/JakeWharton/butterknife >> @JakeWharton
+glide | https://github.com/bumptech/glide >> @bumptech
+matisse | https://github.com/zhihu/Matisse  >> @zhihu 
+xpopup | https://github.com/li-xiaojun/XPopup  >> @li-xiaojun 
