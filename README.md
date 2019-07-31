@@ -4,13 +4,13 @@
 
 ![image](https://github.com/957919019/UploadPic/blob/master/111.gif)
 
-特别感谢以下开源框架
--- easypermissions
--- rxlifecycle
--- butterknife
--- glide
--- matisse
--- xpopup
+特别感谢以下作者提供了这么棒的开源框架
+>> @googlesamples
+>> @trello
+>> @JakeWharton
+>> @bumptech
+>> @zhihu 
+>> @li-xiaojun
 
 名称|地址
 --|:--:
