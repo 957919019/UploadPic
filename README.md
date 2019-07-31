@@ -14,9 +14,9 @@
 
 名称|地址
 --|:--:
-easypermissions | https://github.com/googlesamples/easypermissions >> @googlesamples
-rxlifecycle | https://github.com/trello/RxLifecycle >> @trello
-butterknife | https://github.com/JakeWharton/butterknife >> @JakeWharton
-glide | https://github.com/bumptech/glide >> @bumptech
-matisse | https://github.com/zhihu/Matisse  >> @zhihu 
-xpopup | https://github.com/li-xiaojun/XPopup  >> @li-xiaojun 
+easypermissions | https://github.com/googlesamples/easypermissions
+rxlifecycle | https://github.com/trello/RxLifecycle
+butterknife | https://github.com/JakeWharton/butterknife
+glide | https://github.com/bumptech/glide
+matisse | https://github.com/zhihu/Matisse
+xpopup | https://github.com/li-xiaojun/XPopup
