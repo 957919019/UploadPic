@@ -29,7 +29,7 @@ matisse | https://github.com/zhihu/Matisse
 xpopup | https://github.com/li-xiaojun/XPopup
 ------
 
-##不足
+## 不足
 > * 未完成选取图片后ProcessBar的绘制，单独在一个item里更新ProcessBar让我感觉很吃力，试过用Handler控制但是效果不佳，待时机成熟我会填其不足
 
 ------
