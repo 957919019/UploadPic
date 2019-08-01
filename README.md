@@ -1,6 +1,7 @@
 ### 一个演示了多图上传的Demo
 --------------
-由项目中剥离出来，演示了如何完成多图上传的逻辑以及UI的控制，在Demo中，你可以学习到
+工作三年却从未接触过多图上传，心有不甘，遂写下此Demo。本Demo演示了如何完成多图上传的逻辑以及UI的控制，在Demo中，你可以学习到
+
 > * 谷歌MVP的使用
 > * 简单的BaseActivity的抽离
 > * 使用Recyclerview完成选取图片后的展示
@@ -26,5 +27,10 @@ butterknife | https://github.com/JakeWharton/butterknife
 glide | https://github.com/bumptech/glide
 matisse | https://github.com/zhihu/Matisse
 xpopup | https://github.com/li-xiaojun/XPopup
+------
+
+##不足
+> * 未完成选取图片后ProcessBar的绘制，单独在一个item里更新ProcessBar让我感觉很吃力，试过用Handler控制但是效果不佳，待时机成熟我会填其不足
+
 ------
 **同时欢迎各位同僚一起添砖加瓦**
