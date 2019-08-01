@@ -4,6 +4,8 @@ import android.annotation.TargetApi;
 import android.app.Activity;
 import android.graphics.BitmapFactory;
 import android.os.Build;
+import android.os.Handler;
+import android.os.Message;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -65,7 +67,7 @@ public class TestUploadPicAdapter extends RecyclerView.Adapter<TestUploadPicAdap
 
     @TargetApi(Build.VERSION_CODES.N)
     @Override
-    public void onBindViewHolder( ViewHolder holder, int position)
+    public void onBindViewHolder(ViewHolder holder, int position)
     {
         //判断位置显示的内容 // 如果当前图片的数量是0，或者大于所选择图片的数量则显示一个带选择图片的image，同时隐藏删除按钮
         if (mPaths.size() == 0 || mPaths.size() == position)
@@ -126,7 +128,5 @@ public class TestUploadPicAdapter extends RecyclerView.Adapter<TestUploadPicAdap
                     break;
             }
         }
-
     }
-
 }
